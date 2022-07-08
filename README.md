@@ -42,6 +42,6 @@
       Made on course:
       <a href="https://tocode.ru/courses/vuejs-3-s-nulya-do-rezultata/">Vue.js 3 From scratch to result</a>
     </p>
-    <b>Обратная связь:</b> <br />
+    <b>Feedback:</b> <br />
     <i>Email:</i><p>alexey.lopatenko@gmail.com</p>
     <i>Telegram:</i><p>@alexeyl1992</p>
